@@ -4,5 +4,3 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 this line is created in dev -branch 
-
-this line is created in master -branch
