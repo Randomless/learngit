@@ -13,7 +13,7 @@ Git tracks changes.
     * 无序列表2.1
     * [插入图片2.2](#插入图片-22)
     * [helloshit.py](helloshit.py)
-    * [LICENSE](LICENSE)
+    * [LICENCE](LICENCE)
 
 ## something 1.1
 
@@ -37,7 +37,5 @@ this is what i do when
 
 @import "helloshit.py"
 
-print("daimakuai")
 
-
-changed in 2019/9/7 11:51
+changed in 2019/9/7 12:33
